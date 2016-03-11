@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "description": "",
+  "dependencies": {
+    "express": "^4.13.3",
+  },
+  "engine": "node >= 0.12"
+}

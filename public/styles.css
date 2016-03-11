@@ -1,0 +1,8 @@
+.center-content {
+    width: 100%;
+    text-align: center;
+}
+
+#canv {
+    border: 1px solid;
+}
